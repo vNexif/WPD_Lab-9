@@ -6,6 +6,7 @@
 #define LAB_9_ZADANIE93_H
 
 #include "iostream"
+#include "cmath"
 
 class Zadanie93 {
 public:
