@@ -6,6 +6,7 @@
 #define LAB_9_ZADANIE96_H
 
 #include "iostream"
+#include "cmath"
 #include "vector"
 
 class Zadanie96 {
