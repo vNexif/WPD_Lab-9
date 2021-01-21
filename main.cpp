@@ -23,37 +23,37 @@ void blankiBoi() {
 
 void zadanie1() {
     std::cout << "Zadanie 1" << std::endl;
-    zadanie91();
+    Zadanie91();
 }
 
 void zadanie2() {
     std::cout << "Zadanie 2" << std::endl;
-    zadanie92();
+    Zadanie92();
 }
 
 void zadanie3() {
     std::cout << "Zadanie 3" << std::endl;
-    zadanie93();
+    Zadanie93();
 }
 
 void zadanie4() {
     std::cout << "Zadanie 4" << std::endl;
-    zadanie94();
+    Zadanie94();
 }
 
 void zadanie5(){
     std::cout << "Zadanie 5" << std::endl;
-    zadanie95();
+    Zadanie95();
 }
 
 void zadanie6(){
     std::cout << "Zadanie 6" << std::endl;
-    zadanie96();
+    Zadanie96();
 }
 
 void zadanie7(){
     std::cout << "Zadanie 7" << std::endl;
-    zadanie97();
+    Zadanie97();
 }
 
 int main(int argc, const char * argv[]) {

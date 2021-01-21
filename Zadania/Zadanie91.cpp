@@ -3,3 +3,11 @@
 //
 
 #include "Zadanie91.h"
+
+void Zadanie91::Komunikat() {
+    std::cout << "Powyzsza funkcja pokazuje super szybki Komunikat" << std::endl;
+}
+
+Zadanie91::Zadanie91() {
+    this -> Komunikat();
+}

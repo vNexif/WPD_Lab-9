@@ -5,9 +5,14 @@
 #ifndef LAB_9_ZADANIE91_H
 #define LAB_9_ZADANIE91_H
 
+#include "iostream"
 
 class Zadanie91 {
+public:
+    Zadanie91();
 
+private:
+    static void Komunikat();
 };
 
 
